@@ -14,6 +14,9 @@ font-family: 'Cuprum', sans-serif;
     -o-background-size: cover;
     min-height: 100vh;
 }
+.mobile .content-inner {
+background-image: url(images/bg.jpg) repeat scroll top left!important;
+} 
 .box{
     width: 38%;
 	border:3px solid rgba(239, 239, 239, 0.28);
